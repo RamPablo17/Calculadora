@@ -8,11 +8,11 @@ int main(){
 	float numero2;
 	float numero3;
 
-	//1  rnúmero
-	printf("Ingresa un número: ");
+	//1  rnÃºmero
+	printf("Ingresa un nÃºmero: ");
 	scanf("%f",&numero);
-	//2do número	
-    printf ("ingresa otro número");
+	//2do nÃºmero	
+    printf ("ingresa otro nÃºmero");
     scanf("%f",&numero2);
     
     numero3=numero+numero2;
@@ -20,12 +20,14 @@ int main(){
      numero3=numero-numero2;
     printf("el valor de tu resta:%f\n",numero3);
     numero3=numero/numero2;
-    printf("elvalor de tu divición:%f\n",numero3);
+    printf("elvalor de tu diviciÃ³n:%f\n",numero3);
 	numero3=numero*numero2;
-    printf("el valor de tu multiplicación es:%f\n",numero3);
-   
-    
+    printf("el valor de tu multiplicaciÃ³n es:%f\n",numero3);    
+    printf("Autor: Pablo Ramirez Cabrera);    
+
 }
+
+
 
 	
 		
